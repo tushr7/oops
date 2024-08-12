@@ -1,6 +1,6 @@
 * Refer to universal_remote.py*
 
-<img width="1041" alt="image" src="https://github.com/user-attachments/assets/4923f996-6080-480a-ad83-1f437ab4ebe9">
+<img width="1007" alt="image" src="https://github.com/user-attachments/assets/5bbaeca9-3fcb-4505-a1ca-c0d4d8c4576e">
 
 
 # 1. Encapsulation
